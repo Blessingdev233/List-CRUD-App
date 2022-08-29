@@ -2,5 +2,5 @@
 
 # Built with:
 
-* 'React'
-* 'ES6'
+* `React`
+* `ES6`
